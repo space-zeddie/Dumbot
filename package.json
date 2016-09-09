@@ -1,0 +1,23 @@
+{
+  "name": "psych-bot",
+  "version": "1.0.0",
+  "description": "your personal Slack psychiatrist",
+  "main": "lib/psychbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/space-zeddie/Dumbot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "author": "Zakharuk, Tkach, Frankiv",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/space-zeddie/Dumbot/issues"
+  },
+  "homepage": "https://github.com/space-zeddie/Dumbot#readme"
+}
