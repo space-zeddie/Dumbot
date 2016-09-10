@@ -1,0 +1,39 @@
+{
+    "subject_pronouns":[
+        "i","you","he","she","it","we","they"
+    ],
+    "object_pronouns":[
+        "me","you","him","her","it","us","you",
+        "them"
+    ],
+    "possessive_adjectives":[
+        "my","your","his","her","its","our","your","their"
+    ],
+    "possessive_pronouns":[
+        "mine","yours","his","hers","its","ours","yours","theirs"
+    ],
+    "special_questions":[
+        "What","Why","How","When","Where","Which","Who","Whose","Which"
+    ],
+    "yes/no_questions":[
+    "Can","Is","Are","Do","Does","Could","Should","Would","Have"
+    ],
+    "modal_verbs":[
+        "can","could","may","might","must","should","will","have to","ought to","need to ","needn't to","don't have to","be able to ","can't","couldn't","may not","might not ","must not to"
+        
+    ] ,
+    
+    "places":[
+        "theater","cinema","stadion","cafe","store","market","brothel"],
+    "cities":[
+        "Kiev","Lviv","Chernivtsi","Ivano-Frankivsk","Chernihiv","New York","Berlin","Zurich","Geneva","Vienne","Montreal"],
+    "connectors":[
+        "in","out","at",'and","around","somewhere near","very close to","some miles away","at least 1 hour of driving to ",""
+    ],
+    "frequency_words":[
+        "Rarely ","Sometimes ","It may never ",""
+    ]
+    
+    
+    
+}
