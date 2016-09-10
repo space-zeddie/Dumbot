@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/space-zeddie/Dumbot#readme",
   "dependencies": {
+    "qtypes": "^0.1.6",
     "slackbots": "^0.5.2",
     "sqlite3": "^3.1.4"
   }
