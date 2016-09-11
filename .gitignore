@@ -1,2 +1,4 @@
 bot-token.txt
 /node_modules
+bin/npm-debug.log
+npm-debug.log
